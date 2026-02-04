@@ -1,0 +1,27 @@
+{
+  "news": [
+    {
+      "tag": "Lorem",
+      "title": "Lorem ipsum",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque at ex et turpis tincidunt scelerisque in nec diam. Donec quis nulla a lacus rhoncus dictum. Nunc cursus a nunc ut gravida. Etiam ac ultrices massa. Nunc vitae erat facilisis, gravida dolor non, sollicitudin odio. Vestibulum posuere mauris id felis sodales viverra. Maecenas id mi condimentum, facilisis enim quis, feugiat elit. Integer viverra risus eu velit molestie, a congue massa bibendum. Proin tincidunt vulputate augue, id rhoncus tellus lobortis at.\n\nDonec hendrerit convallis arcu, ut varius diam congue vitae. Phasellus eros nisi, accumsan vitae ex a, dapibus placerat quam. Aliquam at augue diam. Integer lorem dui, tempor eget posuere eget, tempus id nisi. Aenean id risus euismod, ornare eros ac, interdum massa. Aenean sit amet tincidunt turpis. Integer luctus nec quam non vehicula. Aliquam vitae elit sed arcu sollicitudin vestibulum. Suspendisse potenti. Vestibulum congue sem vitae quam sodales, id ornare mi tincidunt. Phasellus in metus id metus dignissim fringilla. Morbi sed turpis sed erat dignissim vehicula. Phasellus ultrices viverra lacinia. Fusce dignissim ante ac purus consequat rutrum. Curabitur mi nunc, aliquet et sem non, hendrerit bibendum urna. Vestibulum at justo urna.\n\nPhasellus suscipit molestie justo in dictum. Mauris ac justo at sapien volutpat placerat. Phasellus at sapien lacus. In ac massa velit. Mauris ac imperdiet urna. Donec enim sapien, tempor eu blandit id, imperdiet sed massa. Cras iaculis, turpis vitae pulvinar interdum, sapien orci semper nunc, in lacinia neque sapien in nulla. Mauris dui libero, laoreet eu odio eu, venenatis consectetur tellus. Sed pharetra, neque ut tincidunt dapibus, lorem lectus condimentum mi, id sodales nisl mauris eget metus. Vestibulum tincidunt erat at mi tempor scelerisque. Vestibulum viverra est lectus, in volutpat elit dapibus ut.\n\nAenean molestie sem et egestas faucibus. Quisque diam est, mattis non odio nec, ultrices fringilla elit. Ut pellentesque dictum dui at tincidunt. Aenean diam ligula, placerat sed purus volutpat, maximus aliquam diam. Etiam consectetur libero sem, at imperdiet diam fringilla sit amet. Morbi vitae enim tincidunt, venenatis justo id, vulputate lorem. Curabitur vel enim tincidunt, cursus tellus vitae, lobortis sapien. Sed mollis diam purus, sit amet tincidunt velit fringilla eu. Nulla blandit eleifend felis a lacinia. Donec at massa tristique eros lobortis gravida eget id metus. Donec luctus id purus sed tincidunt. Nunc congue fermentum nisl, in porta dolor luctus vel. Mauris nec leo sagittis, consequat velit commodo, semper sem.\n\nSed nisl arcu, auctor sit amet mattis vitae, placerat faucibus erat. Vestibulum feugiat dolor eget turpis molestie, et mollis nisl ornare. Sed quis orci sit amet mauris facilisis pellentesque non et nisl. Nullam a finibus libero. Cras et odio lacus. Ut placerat imperdiet lorem ac viverra. Aliquam metus risus, tempor nec ipsum a, dapibus consequat leo. Suspendisse luctus ligula ornare lacus dignissim congue. Phasellus tincidunt efficitur molestie. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed imperdiet a eros in semper. Donec eleifend fringilla erat ac consequat. Etiam placerat vehicula eros, quis pharetra leo pellentesque vel. Nulla convallis interdum eros, at luctus diam aliquet et. Quisque et ante sit amet quam ullamcorper pulvinar. Duis dignissim pharetra elit, quis vulputate odio commodo ac.",
+      "img": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "game_slides": [
+    {
+      "title": "Phasellus suscipit",
+      "desc": "Phasellus suscipit molestie justo in dictum. Mauris ac justo at sapien volutpat placerat. Phasellus at sapien lacus. In ac massa velit. Mauris ac imperdiet urna. Donec enim sapien, tempor eu blandit id, imperdiet sed massa. Cras iaculis, turpis vitae pulvinar interdum, sapien orci semper nunc, in lacinia neque sapien in nulla. Mauris dui libero, laoreet eu odio eu, venenatis consectetur tellus. Sed pharetra, neque ut tincidunt dapibus, lorem lectus condimentum mi, id sodales nisl mauris eget metus. Vestibulum tincidunt erat at mi tempor scelerisque. Vestibulum viverra est lectus, in volutpat elit dapibus ut.",
+      "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+  "games": [
+    {
+      "id": "minecraft_bedrockbox",
+      "title": "Minecraft BedRock Box",
+      "desc": "Rellena el cubo",
+      "image": "https://viciados.net/wp-content/uploads/2025/01/Minecraft-2-2025.webp",
+      "rating": 4.5,
+      "category": "Sandbox"
+    }
+  ]
+}
